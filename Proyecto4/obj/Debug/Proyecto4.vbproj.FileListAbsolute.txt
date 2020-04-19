@@ -1,0 +1,12 @@
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\bin\Debug\Proyecto4.exe.config
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\bin\Debug\Proyecto4.exe
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\bin\Debug\Proyecto4.pdb
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\bin\Debug\Proyecto4.xml
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.Form1.resources
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.Resources.resources
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.exe
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.xml
+C:\Users\Manuel\source\repos\Proyecto4\Proyecto4\obj\Debug\Proyecto4.pdb
